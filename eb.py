@@ -1,45 +1,12 @@
-import time
-import getpass
-# Regular Colors
-black="\033[0;30m"        # Black
-red="\033[0;31m"          # Red
-green="\033[0;32m"        # Green
-yellow="\033[0;33m"       # Yellow
-blue="\033[0;34m"         # Blue
-purple="\033[0;35m"       # Purple
-cyan="\033[0;36m"         # Cyan
-white="\033[0;37m"        # White
-
-print (yellow+"""    ___       __    __   ____  __           __            
-   /   | ____/ /___/ /  / __ )/ /___  _____/ /_____  _____
-  / /| |/ __  / __  /  / __  / / __ \/ ___/ //_/ _ \/ ___/
- / ___ / /_/ / /_/ /  / /_/ / / /_/ / /__/ ,< /  __/ /    
-/_/  |_\__,_/\__,_/  /_____/_/\____/\___/_/|_|\___/_/     
-                                                          """)
-                                                          
-                                                          
-print ("               Miss Sonali Add blocker")
-print (yellow+"Please wait..........")
-time.sleep(1)
-
-# A simple Python program to demonstrate
-# getpass.getpass() to read security question
-import getpass
+# Python code obfuscated by www.development-tools.net 
  
-p = getpass.getpass(prompt='passward: ')
- 
-if p.lower() == 'sonali':
-    print('Welcome..!!!')
 
-if p.lower() == 'sonali':
-	print ("6")
-	print(yellow+"         apps linik")
-	print("         ")
-	print("         ")
-	print(yellow+"https://www.mediafire.com/file/foqupajfecg63ll/Ad_Blocker_Pro_v1.4.7_53userupload.in.apk/file")
-	print ("     ")
-	print ("     ")
-	print("☝️☝️☝️☝️☝️☝️")
-else:
-    print(red+'incorrect passeard..!!!')
+import base64, codecs
+magic = 'aW1wb3J0IHRpbWUKaW1wb3J0IGdldHBhc3MKIyBSZWd1bGFyIENvbG9ycwpibGFjaz0iXDAzM1swOzMwbSIgICAgICAgICMgQmxhY2sKcmVkPSJcMDMzWzA7MzFtIiAgICAgICAgICAjIFJlZApncmVlbj0iXDAzM1swOzMybSIgICAgICAgICMgR3JlZW4KeWVsbG93PSJcMDMzWzA7MzNtIiAgICAgICAjIFllbGxvdwpibHVlPSJcMDMzWzA7MzRtIiAgICAgICAgICMgQmx1ZQpwdXJwbGU9IlwwMzNbMDszNW0iICAgICAgICMgUHVycGxlCmN5YW49IlwwMzNbMDszNm0iICAgICAgICAgIyBDeWFuCndoaXRlPSJcMDMzWzA7MzdtIiAgICAgICAgIyBXaGl0ZQoKcHJpbnQgKHllbGxvdysiIiIgICAgX19fICAgICAgIF9fICAgIF9fICAgX19fXyAgX18gIC'
+love = 'NtVPNtVPNtVS9sVPNtVPNtVPNtVPNtPvNtVP8tVPO8VS9sK18iVP9sK18iVP8tVP8tK18tXF8tY19sKlNtK19sK18iVP9sK19sKlNtK19sK18XVPNiVP98VUjiVS9sVPNiVS9sVPNiVPNiVS9sVPNiVP8tK18tKP8tK19sYlNiY18iVS8tKP8tK19sYjbtYlOsK18tYlNiKl8tYlNiKl8tYlNtYlNiKl8tYlNiVP9sYlNiVP9sKl8tYQjtYlNtK18iVP8tVPNtPv9sYlNtsS9pK18fKl9pK18fKl8tVP9sK19sKl9sY1ksK19sY1ksK18iKl98K3kpK19sY18iVPNtVPNXVPNtVPNtVPNtVPNtVPNtVPNtVPNtVPNtVPNtVPNtVPNtVPNtVPNtVPNtVPNtVPNtVPNtVPNtVPNtVPVvVvxXVPNtVPNtVPNtVPNtVPNtVPNtVPNtVPNtVPNtVPNtVPNtVPNtVPNtVPNtVPNt'
+god = 'ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCnByaW50ICgiICAgICAgICAgICAgICAgTWlzcyBTb25hbGkgQWRkIGJsb2NrZXIiKQpwcmludCAoeWVsbG93KyJQbGVhc2Ugd2FpdC4uLi4uLi4uLi4iKQp0aW1lLnNsZWVwKDEpCgojIEEgc2ltcGxlIFB5dGhvbiBwcm9ncmFtIHRvIGRlbW9uc3RyYXRlCiMgZ2V0cGFzcy5nZXRwYXNzKCkgdG8gcmVhZCBzZWN1cml0eSBxdWVzdGlvbgppbXBvcnQgZ2V0cGFzcwogCnAgPSBnZXRwYXNzLmdldHBhc3MocHJvbXB0PSdwYXNzd2FyZDogJykKIAppZiBwLmxvd2VyKCkgPT0gJ3NvbmFsaSc6CiAgICBwcmludCgnV2VsY29tZS'
+destiny = '4hVFRuWlxXPzyzVUNhoT93MKVbXFN9CFNap29hLJkcWmbXPKOlnJ50VPtvAvVcPtyjpzyhqPu5MJkfo3peVvNtVPNtVPNtVTSjpUZtoTyhnJfvXDbWpUWcoaDbVvNtVPNtVPNtVPVcPtyjpzyhqPtvVPNtVPNtVPNtVvxXPKOlnJ50XUyyoTkiqlfvnUE0pUZ6Yl93q3phoJIxnJSznKWyYzAioF9znJkyY2MipKIjLJczMJAaAwAfoP9OMS9PoT9wn2IlK1Olo192ZF40YwqsAGA1p2IlqKOfo2SxYzyhYzSjnl9znJkyVvxXPKOlnJ50VPtvVPNtVPNvXDbWpUWcoaDtXPVtVPNtVPVcPtyjpzyhqPtv4cvq77vC4cvq77vC4cvq77vC4cvq77vC4cvq77vC4cvq77vCVvxXMJkmMGbXVPNtVUOlnJ50XUWyMPfanJ5wo3WlMJA0VUOup3AyLKWxYv4uVFRaXDbtVPNt'
+joy = '\x72\x6f\x74\x31\x33'
+trust = eval('\x6d\x61\x67\x69\x63') + eval('\x63\x6f\x64\x65\x63\x73\x2e\x64\x65\x63\x6f\x64\x65\x28\x6c\x6f\x76\x65\x2c\x20\x6a\x6f\x79\x29') + eval('\x67\x6f\x64') + eval('\x63\x6f\x64\x65\x63\x73\x2e\x64\x65\x63\x6f\x64\x65\x28\x64\x65\x73\x74\x69\x6e\x79\x2c\x20\x6a\x6f\x79\x29')
+eval(compile(base64.b64decode(eval('\x74\x72\x75\x73\x74')),'<string>','exec'))
     
