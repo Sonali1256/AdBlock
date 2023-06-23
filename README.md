@@ -1,7 +1,5 @@
 # AdBlock
-Hi
-
-##### smsbomber-command
+# Add block Commands 
 
 ```
 termux-setup-storage 
